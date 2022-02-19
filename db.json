@@ -1,4 +1,6 @@
 [
+  "penguins": [
+  
   {
     "name": "Asian Penguin",
     "number": "2238",
@@ -14,5 +16,10 @@
     "image": "/images/doctor-penguin.png",
     "background": "#E6CAAF",
     "description": "The Doctor Penguin is a species of penguin found in the Southern Hemisphere."
+  }
+],
+  
+  "profile": {
+    "name": "wrongakram"
   }
 ]
